@@ -1,6 +1,9 @@
 package com.david.bank;
 
 public class Bank {
+    String name;
+    double finalAmount;
+
     String accountHolderName;
     double balance;
 
